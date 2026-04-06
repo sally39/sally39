@@ -78,18 +78,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sally39&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sally39&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sally39&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-###
 
 <div align="left">
   <h3>🌐 Connect With Me</h3>
